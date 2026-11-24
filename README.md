@@ -1,2 +1,2 @@
 # gt-blocklist-lexis
-Blocklist made for RID and Gamer Tags made for Lexis Menu 
+Blocklist via RID and Gamer Tags made for Lexis Menu 
